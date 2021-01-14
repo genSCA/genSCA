@@ -1,0 +1,23 @@
+{
+  "side_channel": "cacheline",
+  "image_size": 128,
+  "trace_size_N": 512,
+  "trace_size_K": 3,
+  "vae_epoch": 100,
+  "gan_epoch": 100,
+  "test_freq": 5,
+  "batch_size": 50,
+  "num_workers": 8,
+  "trace_dir": "/root/data/celeba_crop128_cacheline/",
+  "image_dir": "/root/data/celeba_crop128/",
+  "nc": 3,
+  "vae_lr": 1e-4,
+  "gan_lr": 2e-4,
+  "beta1": 0.5,
+  "vae_dim": 128,
+  "gan_dim": 128,
+  "beta": 1e-4,
+  "lambda": 100,
+  "vae_dir": "/root/output/vae",
+  "gan_dir": "/root/output/gan"
+}
