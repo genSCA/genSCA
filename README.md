@@ -2,8 +2,9 @@
 
 This the official implementation of ICLR 2021 paper *Private Image Reconstruction from System Side Channels using Generative Models*.
 
-The whole framework is rewritten in an OOP manner with necessary comments.
 Detailed document is coming soon!
+
+If you have any problems, please let me know.
 
 📫 You can reach me by <yyuanaq@cse.ust.hk>
 
